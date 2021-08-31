@@ -31,6 +31,6 @@ Contendo em meu currículo o diferencial de segmentos diversos, entre Forças Ar
 
 
 ## Projetos:
-Veja 
+Analise prévia da disponibilidade de locações do Airbnb na cidade de Madrid, Epanha 
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analise Airbnb da cidade de Madrid:** https://bit.ly/38qIWwN
